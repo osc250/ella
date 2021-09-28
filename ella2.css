@@ -1,0 +1,59 @@
+{
+  margin: 0;
+  padding: 0;
+}
+h2 {
+	text-align:center;
+	font-family: Arial Black;
+    color:black;
+}
+.conte-galeria{
+	margin: 5px;
+	padding: 60px;
+	display: inline-block;
+}
+img{
+	height: 200px;
+	width: 280px;
+	border:3px solid black;
+	border-image: 2em;
+	border-radius: 11px;
+
+}
+.caja{
+    font-family: Arial Black;
+    font-size: 13px;
+    color: black;
+    overflow: hidden;
+    padding: 30px;
+    width: 257px; 
+    height: 400px;
+    text-align:center;
+ }
+ .boton{
+ 	height: 30px;
+	width: 110%;
+	background:red;
+	border-radius: 10px;
+	font-size: 18px;
+	color: white;
+	font-family:'Arial Black';
+	padding: 1px;
+ }
+h4 {
+	text-align:center;
+	font-family: Arial Black;
+    color:black;
+    text-decoration: none;
+}
+.caja2{
+    border-color: red;
+}
+
+h1{
+	color: red;
+	text-align: center;
+}
+.imagen{
+text-align: center;
+}
